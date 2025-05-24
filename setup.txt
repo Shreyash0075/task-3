@@ -1,0 +1,4 @@
+mkdir fitness-backend
+cd fitness-backend
+npm init -y
+npm install express mongoose cors
